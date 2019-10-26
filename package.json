@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a collection of simple demos of Koa",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node demos/index.js"
   },
   "keywords": [
     "Koa",
